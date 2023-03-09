@@ -93,7 +93,7 @@ header .head_btn_right {
     justify-content: end;
 }
 
-header_button {
+.header_button {
     font-family: "Nanum Gothic";
 }
 
